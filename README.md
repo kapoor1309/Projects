@@ -1,1 +1,1 @@
-# Projects
+# Stock Sentiment Analysis
